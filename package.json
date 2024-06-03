@@ -1,0 +1,21 @@
+{
+  "name": "prom-client-simple",
+  "version": "0.1.0",
+  "bugs": "https://github.com/yaroslav-korotaev/prom-client-simple/issues",
+  "license": "MIT",
+  "author": "Yaroslav Korotaev <yaroslav.korotaev@gmail.com>",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "repository": "yaroslav-korotaev/prom-client-simple",
+  "scripts": {},
+  "dependencies": {
+    "prom-client": "^15.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "typescript": "^5.4.5"
+  }
+}
